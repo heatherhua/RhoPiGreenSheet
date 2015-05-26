@@ -429,11 +429,11 @@ function loadMakeUpTable(type) {
 function loadSmallTables() {
 	for (i = 0; i < 2; i++) {
 		addFundraisingRow();
-		addRushRow();
+		//addRushRow();
 		addFamEventRow();
 		addIcEventRow();
-		addFlyeringRow();
-		addChalkboardingRow();
+		//addFlyeringRow();
+		//addChalkboardingRow();
 	}
 }
 
