@@ -431,9 +431,9 @@ function loadSmallTables() {
 		addFamEventRow();
 		addIcEventRow();
 		addFundraisingRow();
-		//addRushRow();
-		//addFlyeringRow();
-		//addChalkboardingRow();
+		addRushRow();
+		addFlyeringRow();
+		addChalkboardingRow();
 	}
 }
 
